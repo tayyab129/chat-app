@@ -1,5 +1,5 @@
 React Basics-1
-Q1 3:08 what us React? What is the Role of React in software development?
+Q1 3:08 what is React? What is the Role of React in software development?
 Q2 6:15 what are the key Features of React?
 Q3 8:00 what is DOM? What is the difference between HTML & DOM?
 Q4 10:59 What is virtual DOM ? Difference between DOM & Virtual DOM?
